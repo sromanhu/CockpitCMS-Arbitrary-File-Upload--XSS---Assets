@@ -74,21 +74,18 @@ There is an object with javascript code in object[3] and we can check it using p
 
 
 I have renamed the file to have it more at hand.
+
 ![Renombrado PDF injectado](https://github.com/sromanhu/CockpitCMS-File-Upload--XSS---Assets/assets/87250597/65fa1026-790b-486d-bd94-32970d0d6b3f)
 
 
 We upload the file in Assets:
+
 ![Subir PDF en Assets](https://github.com/sromanhu/CockpitCMS-File-Upload--XSS---Assets/assets/87250597/19ce93bf-d8ac-400e-ac6e-e245d4da07cc)
 
 
 And when we open it we have the XSS of the PDF file stored on the server.
+
 ![Resultado XSS cockpit](https://github.com/sromanhu/CockpitCMS-File-Upload--XSS---Assets/assets/87250597/f3ae8c01-2eee-416c-bba4-13b4c3e6c342)
-
-
-
-
-
-
 
 
 </br>
