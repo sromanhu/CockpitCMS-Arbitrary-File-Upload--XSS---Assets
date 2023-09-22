@@ -64,8 +64,6 @@ Then we create an empty PDF file (pdf2go) and inject the payload of the .js file
 
 ![Injectar payload del fichero js en PDF vacio](https://github.com/sromanhu/CockpitCMS-File-Upload--XSS---Assets/assets/87250597/29b37616-f70f-47de-b91f-9c68b078508a)
 
-
-
 We can analyze the content of the injected PDF using the Peepdf tool.
 
 ![Revisión codigo Javascipt en fichero injectado](https://github.com/sromanhu/CockpitCMS-File-Upload--XSS---Assets/assets/87250597/2d7db472-701f-45d9-8538-7e43959501ce)
