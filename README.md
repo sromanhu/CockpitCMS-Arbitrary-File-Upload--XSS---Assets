@@ -54,7 +54,9 @@ We access the copied URL and the XSS pop-up appears
 ### Next, I have developed another PoC where I explain how I created the malicious PDF file and took advantage of the vulnerability to obtain the XSS:
 
 The first thing is to generate the malicious PDF with hidden XSS.
+
 To do this, we create a .js file with the Javascript code that we want to inject for the XSS in the PDF file.
+
 ![Fichero js](https://github.com/sromanhu/CockpitCMS-File-Upload--XSS---Assets/assets/87250597/83a0c2c7-4736-4b06-b663-3304082f56bb)
 
 
